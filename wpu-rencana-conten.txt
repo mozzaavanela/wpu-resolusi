@@ -4,6 +4,7 @@ RENCANA KONTEN WUP
 *frameworks javascript
 ^vue
 ^react
+^angular
 -struktur data besar
 -php frameworks
 ^laravel
