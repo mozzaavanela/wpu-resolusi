@@ -3,6 +3,7 @@ RENCANA KONTEN WUP
 *ES6
 *frameworks javascript
 ^vue
+^react
 -struktur data besar
 -php frameworks
 ^laravel
