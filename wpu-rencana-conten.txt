@@ -2,9 +2,11 @@ RENCANA KONTEN WUP
 -javascript
 *ES6
 *frameworks javascript
-^angular
-^react 
+^vue
+^react
+-struktur data besar
 -php frameworks
 ^laravel
 -interviews
-vlogs
+-vlogs
+-python
