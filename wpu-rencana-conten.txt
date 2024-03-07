@@ -1,5 +1,7 @@
 RENCANA KONTEN WUP
 -javascript
+*ES6
+*frameworks javascript
 -php frameworks
 -interviews
 vlogs
